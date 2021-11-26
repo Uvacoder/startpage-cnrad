@@ -100,7 +100,7 @@ export default function Home() {
 
     let [pinnedLinks, setPinnedLinks] = useState([{
         "name": "GitHub Repo",
-        "url": "https://github.com/cnrad/h.cnrad.dev",
+        "url": "https://github.com/uvacoder/startpage-cnrad",
         "image": "https://www.macobserver.com/wp-content/uploads/2019/05/workfeatured-GitHub-2.png"
     }]);
     
